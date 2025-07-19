@@ -1,12 +1,12 @@
-# 🛍️ E-Commerce Sales Analysis | Muchy's Pet Supplies
+#  E-Commerce Sales Analysis | Muchy's Pet Supplies
 
-📅 **Date:** September 2024  
-📊 **Tools:** Python, Excel, Tableau  
-🔍 **Techniques:** Market Basket Analysis · What-If Simulation · Geospatial Mapping
+ **Date:** September 2024  
+ **Tools:** Python, Excel, Tableau  
+ **Techniques:** Market Basket Analysis · What-If Simulation · Geospatial Mapping
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project analyzes e-commerce data from Muchy’s Pet Supplies to optimize product bundling, shipping strategy, and regional performance. Using a combination of predictive analysis, segmentation, and visualization, I identified patterns in customer behavior and operational efficiency.
 
@@ -18,7 +18,7 @@ Key focus areas:
 
 ---
 
-## 🛠️ Dataset Details
+##  Dataset Details
 
 - **Order Records:** 20,000+ transactions
 - **Tables:** Orders, Products, Customers
@@ -26,7 +26,7 @@ Key focus areas:
 
 ---
 
-## 📌 Techniques Used
+##  Techniques Used
 
 - **Market Basket Analysis:** Identified commonly co-purchased items to drive upsell/cross-sell campaigns.
 - **What-If Scenario Modeling:** Simulated revenue/profit effects by shifting customers to faster shipping options.
@@ -35,13 +35,13 @@ Key focus areas:
 
 ---
 
-## 📊 Dashboard Demo
+##  Dashboard Demo
 
-🔗 [Explore the Tableau Dashboard →](https://public.tableau.com/app/profile/rishabh.jain6714/viz/ECommerce-Analysis/ExecutiveSummary?publish=yes)
+[Explore the Tableau Dashboard →](https://public.tableau.com/app/profile/rishabh.jain6714/viz/ECommerce-Analysis/ExecutiveSummary?publish=yes)
 
 ---
 
-## 🔍 Key Insights
+##  Key Insights
 
 - **Shipping Method vs. Sales Volume:** Faster shipping options strongly correlated with higher order volume.
 - **Regional Performance:** South and West regions accounted for over 60% of total revenue.
